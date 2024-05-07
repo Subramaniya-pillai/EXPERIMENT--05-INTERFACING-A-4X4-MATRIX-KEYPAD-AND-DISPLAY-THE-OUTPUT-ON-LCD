@@ -348,11 +348,11 @@ void key()
 ```
 
 ## Output screen shots of proteus  :
-![image](https://github.com/Subramaniya-pillai/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94166127/f7efb438-808c-4e3f-a7d7-e934dd98c74d)
+![image](https://github.com/Subramaniya-pillai/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94166127/f4ac8a5a-4c7e-4b6f-b812-abf93d9a8e40)
 
  
  ## CIRCUIT DIAGRAM:
-![image](https://github.com/Subramaniya-pillai/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94166127/ad466aae-7265-4d43-a5e2-6ec44608108d)
+![image](https://github.com/Subramaniya-pillai/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94166127/6cdfdce2-a416-443d-8cd1-e3045445e969)
 
  
 ## Result :
